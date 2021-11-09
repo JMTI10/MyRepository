@@ -1,2 +1,2 @@
 # MyRepository
-Just for fun.
+Just having fun for now lets see where this leads
